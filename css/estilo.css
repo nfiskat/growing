@@ -1,0 +1,172 @@
+#oferta {
+    background-color: black;
+}
+
+#titulo {
+    color: white;
+    font-size: 18px;
+    text-align: center 
+}
+
+#aplausos {
+    height: 20px;
+    width: 20px;
+}
+
+#encabezado {
+    display: flex;
+    align-items: center;
+   background-color: white; 
+   justify-content: center;
+}
+
+#logo {
+    height: 150px;
+    width: 170px;
+    align-items: center;
+}
+
+#seccion1 a {
+    text-align: right;
+    padding: 20px;
+    text-decoration: none;
+    color: #000000;
+ }
+
+#seccion2 a {
+    text-align: left;
+    padding: 20px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.fotoprincipal {
+    width: 100%;
+
+}
+.homefacilitadores {
+    display: flex;
+    width:100%;
+justify-content: center;
+align-items: center;
+align-content: center;
+
+}
+    
+.facilitadores img {
+    width: 70%;
+    height: 70%;
+}
+
+.fotosnenas{
+    display: flex;
+}
+
+.nenas{
+    flex: 1;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nenas img{
+    width:  100%;
+}
+
+
+.nenas a{
+    align-items: center;
+    text-decoration: none;
+    color: #000000;
+    text-align: center;
+}
+
+.nenas p {
+    margin-top: 10px;
+}
+
+.nena span{
+    align-self: stretch;
+    margin: 10px;
+    padding: 10px;
+}
+
+.fotosnenes{
+    display: flex;
+    margin-top: 1%;
+}
+
+.nenes{
+    flex: 1;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nenes img{
+    width:  100%;
+}
+
+.nenes a{
+    align-items: center;
+    text-decoration: none;
+    color: #000000;
+    text-align: center;
+}
+
+.nenas p {
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+.nene span{
+    align-self: stretch;
+    margin: 10px;
+    padding: 10px;
+}
+
+.contenedorvideo{
+margin-top: 1%;
+display: flex;
+max-width:100%;
+height: auto;
+background-color: lightgray;
+padding-right: 5%;
+padding-left: 5%;
+padding-top: 5%;
+padding-bottom: 5%;
+align-content: center;
+justify-content: center;
+}
+
+.videocampaña video{
+    max-width: 100%;
+    margin: 0px auto;
+}
+
+.no-underline{
+    text-decoration: none;
+    font-size: 10pt;
+    color: #000000;
+}
+
+.focontainer{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 100%;
+    background: transparent;
+}
+
+.footer-newsletter-item{
+    font-size: 10pt;
+}
+
+.productocontainer{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+
+
